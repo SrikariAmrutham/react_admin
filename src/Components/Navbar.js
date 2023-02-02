@@ -25,7 +25,7 @@ function Navbar() {
             <Link to="Licreport" className="nav-link" >License Report</Link>
                 
         </li>
-        <li className="nav-item dropdown">
+        <li className="nav-item">
             <Link to="Perreport" className="nav-link" >Permit Report</Link>
         </li>
         <li className="nav-item">
