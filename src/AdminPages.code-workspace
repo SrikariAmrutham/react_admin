@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../AdminPages"
+		},
+		{
+			"path": "../../../CitizenPages"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../project_c"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AdminPages"
+	}
+}
