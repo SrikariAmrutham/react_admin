@@ -1,5 +1,5 @@
 import React from "react";
-export default function Licapp(){
+export default function Perapp(){
     return <>
     <div className="container-fluid">
         <h2>Permit Application forms</h2>
